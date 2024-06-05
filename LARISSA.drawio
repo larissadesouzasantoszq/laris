@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" modified="2024-06-05T11:57:55.623Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="CBMrQex1MEZ-muqu_1m6" version="24.4.14" type="device">
+  <diagram name="Página-1" id="S6c_MkH4bHFNJW7BsnRE">
+    <mxGraphModel dx="4097" dy="2206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yH81zvVU7ej0horCPgAR-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A3D45;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="170" y="419" width="370" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="yH81zvVU7ej0horCPgAR-13" value="&lt;font size=&quot;1&quot; color=&quot;#fcfcfc&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;Cadastrar Cliente&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="170" y="339" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yH81zvVU7ej0horCPgAR-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A3D45;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="580" y="420" width="370" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="yH81zvVU7ej0horCPgAR-29" value="&lt;font size=&quot;1&quot; color=&quot;#fcfcfc&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;Cadastrar Produto&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="580" y="340" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yH81zvVU7ej0horCPgAR-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A3D45;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1010" width="370" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="yH81zvVU7ej0horCPgAR-31" value="&lt;font size=&quot;1&quot; color=&quot;#fcfcfc&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;Produto&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="170" y="930" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yH81zvVU7ej0horCPgAR-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A3D45;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1020" width="370" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="yH81zvVU7ej0horCPgAR-33" value="&lt;font size=&quot;1&quot; color=&quot;#fcfcfc&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;Login&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="580" y="940" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yH81zvVU7ej0horCPgAR-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A3D45;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="990" y="420" width="370" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="yH81zvVU7ej0horCPgAR-35" value="&lt;font color=&quot;#fcfcfc&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;Clientes&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="990" y="340" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yH81zvVU7ej0horCPgAR-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A3D45;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1030" width="370" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="yH81zvVU7ej0horCPgAR-37" value="&lt;font size=&quot;1&quot; color=&quot;#fcfcfc&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;Cadastrar Cliente&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="990" y="950" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yH81zvVU7ej0horCPgAR-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A3D45;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="300" width="750" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="yH81zvVU7ej0horCPgAR-39" value="&lt;font size=&quot;1&quot; color=&quot;#fcfcfc&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;Cadastrar Cliente&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="220" width="750" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yH81zvVU7ej0horCPgAR-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A3D45;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="790" width="750" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="yH81zvVU7ej0horCPgAR-43" value="&lt;font size=&quot;1&quot; color=&quot;#fcfcfc&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;Cadastrar Cliente&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="710" width="750" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yH81zvVU7ej0horCPgAR-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A3D45;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="300" width="750" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="yH81zvVU7ej0horCPgAR-45" value="&lt;font size=&quot;1&quot; color=&quot;#fcfcfc&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;Cadastrar Cliente&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="220" width="750" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yH81zvVU7ej0horCPgAR-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A3D45;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="790" width="750" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="yH81zvVU7ej0horCPgAR-47" value="&lt;font size=&quot;1&quot; color=&quot;#fcfcfc&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;Cadastrar Cliente&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="710" width="750" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yH81zvVU7ej0horCPgAR-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A3D45;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="1270" width="750" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="yH81zvVU7ej0horCPgAR-49" value="&lt;font size=&quot;1&quot; color=&quot;#fcfcfc&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;Cadastrar Cliente&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="1190" width="750" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yH81zvVU7ej0horCPgAR-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3A3D45;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="1760" width="750" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="yH81zvVU7ej0horCPgAR-51" value="&lt;font size=&quot;1&quot; color=&quot;#fcfcfc&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;Cadastrar Cliente&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="1680" width="750" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Desktop\\laris-main\\LARIS\\LARIS.csproj": {}
+    "C:\\Users\\Aluno\\laris\\LARIS\\LARIS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Desktop\\laris-main\\LARIS\\LARIS.csproj": {
+    "C:\\Users\\Aluno\\laris\\LARIS\\LARIS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\laris-main\\LARIS\\LARIS.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\laris\\LARIS\\LARIS.csproj",
         "projectName": "LARIS",
-        "projectPath": "C:\\Users\\Aluno\\Desktop\\laris-main\\LARIS\\LARIS.csproj",
+        "projectPath": "C:\\Users\\Aluno\\laris\\LARIS\\LARIS.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Desktop\\laris-main\\LARIS\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\laris\\LARIS\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [

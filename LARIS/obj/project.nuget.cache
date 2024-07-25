@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/OGBDfVL9GiJSLFSHGy7Bsy/h8BWNMgKNnqY+tOlQXXpR2y/fV9BL3YX7LusbCCy/2PF4Z213a5Ji2ePNj0gmQ==",
+  "dgSpecHash": "8OKwQFIgB5XWko9lRrwrCGZyI/O15V6B0IVk6H/DNmkoD7fAdesgPwc4zX5nwjafOWyOGX4Z3rCEUxA56CAHSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\Desktop\\laris-main\\LARIS\\LARIS.csproj",
+  "projectFilePath": "C:\\Users\\Aluno\\laris\\LARIS\\LARIS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aluno\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0-rc.1.23419.4\\microsoft.extensions.configuration.8.0.0-rc.1.23419.4.nupkg.sha512",
